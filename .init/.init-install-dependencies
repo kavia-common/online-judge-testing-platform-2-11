@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/online-judge-testing-platform-2-11/oj_frontend"
+}
